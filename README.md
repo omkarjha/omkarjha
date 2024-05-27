@@ -3,7 +3,7 @@
 <img align ="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjha&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjha" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/omkar-abhishek-jha-0b7a5823a/" target="blank"><img src="https://i.sstatic.net/gVE0j.png"></i>" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/omkar-abhishek-jha-0b7a5823a/" target="blank"><img src="https://i.sstatic.net/gVE0j.png"></i> LinkedIN Profile</a> </p>
 
 
 - 🌱 I’m currently learning **Python,HTML,CSS,JavaScript**
