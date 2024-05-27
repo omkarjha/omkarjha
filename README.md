@@ -7,11 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=omkarjha&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjha" />
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/omkar-abhishek-jha-0b7a5823a/" target="blank">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn Profile" />
-  </a>
-</p>
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript**
 
